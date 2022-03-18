@@ -27,7 +27,7 @@
 
 <p align="center"> 
     <b>Informations</b><br>
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/Discord-DmOnJoin?style=social">
-    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Its-Vichy/Discord-DmOnJoin">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Its-Vichy/Discord-DmOnJoin">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Its-Vichy/Discord-DmOnReact?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Its-Vichy/Discord-DmOnReact">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Its-Vichy/Discord-DmOnReact">
 </p>
