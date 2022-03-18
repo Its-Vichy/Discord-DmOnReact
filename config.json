@@ -1,0 +1,11 @@
+{
+    "listenner_token": "",
+    "timeout": 30,
+    "proxy": true,
+
+    "wait_time": 5,
+
+    "message_id": "",
+    "message": "Hello <user> !<newline>https://github.com/its-vichy"
+}
+
